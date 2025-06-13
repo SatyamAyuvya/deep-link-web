@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.kundlitalks",
+      "package_name": "com.kundlitalk",
       "sha256_cert_fingerprints": [
         "E5:8C:BB:FC:72:14:7A:B0:A9:8A:AB:C6:38:8D:33:D5:22:CE:51:21:93:2D:FF:2A:4B:B1:48:AE:DA:C4:14:C9"
       ]
